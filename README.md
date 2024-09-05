@@ -7,13 +7,13 @@
   </p>
 
   <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/6df60afff9a70b4986af2.jpg">
-    <h1 align="center">PREXZY-BUG-V2</h1>
+  <a href="https://whatsapp.com/channel/0029VaiPkRPLY6d0qEX50e2k">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/7c48252a7a35fd4d15339.jpg">
+    <h1 align="center">KAYA-BUG</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Prexzybooster"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+255616030473"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Prexzybooster"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaiPkRPLY6d0qEX50e2k"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+255616030473"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
