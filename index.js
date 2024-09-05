@@ -29,7 +29,7 @@ browser: [ "Ubuntu", "Chrome", "20.0.04" ]
 }
 const VarelTzy = func.makeWASocket(connectionOptions)
 if(usePairingCode && !VarelTzy.authState.creds.registered) {
-		const phoneNumber = await question('Hello Prexzy client enter your WhatsApp number without plus +:\n');
+		const phoneNumber = await question('Hello KAYA client enter your WhatsApp number without plus +:\n');
 		const code = await VarelTzy.requestPairingCode(phoneNumber.trim())
 		console.log(chalk.red.bold(`=> [ ${code} ] <=`))
 
@@ -69,13 +69,13 @@ startSesi()
 start(`1`, `Connecting...`)
 } else if (connection === "open") {
 success(`1`, `Tersambung`)
-VarelTzy.sendMessage(`243823661981@s.whatsapp.net`, { text: `✅ 𝕻𝕽𝕰𝖃𝖄 𝕭𝖀𝕾 𝕻𝟐 𝐈𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 
+VarelTzy.sendMessage(`243823661981@s.whatsapp.net`, { text: `✅ KAYA BUG BOT 𝐈𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 
 ★ *SCRIPT BELONGS TO KAYA*
 ★ 𝐃𝐎 𝐍𝐎𝐓 𝐌𝐈𝐒 𝐔𝐒𝐄 𝐓𝐇𝐄 𝐁𝐎𝐓
 ★ 𝐈𝐍𝐂𝐀𝐒𝐄 𝐈𝐅 𝐁𝐀𝐍 𝐃𝐎 𝐍𝐎𝐓 𝐁𝐋𝐀𝐌𝐄 𝐓𝐇𝐄 𝐎𝐖𝐍𝐄𝐑
 ➨ 𝐄𝐍𝐉𝐎𝐘 𝐓𝐇𝐄 𝐁𝐎𝐓
 ➢ 𝐀𝐋𝐋 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎 
-   ⦁*PREXZY*`})
+   ⦁*KAYA*`})
 if (autoJoin) {
 VarelTzy.groupAcceptInvite(codeInvite)
 }
