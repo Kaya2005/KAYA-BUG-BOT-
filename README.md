@@ -20,7 +20,7 @@
 
 KAYA BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
-If you clone my repo or use as base bot, dont forget to give credits. PREXZYVILLA
+If you clone my repo or use as base bot, dont forget to give credits. KAYA BUG 
 ### 1. FORK THIS REPO
 
 <a href='https://github.com/Kaya2005/KAYA-BUG-BOT-/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
