@@ -1,13 +1,13 @@
 {
-  "name": "*𝕻𝕽𝕰𝖃𝖄 𝕭𝖀𝕾 𝕻𝟐* 1.0",
+  "name": "*KAYA BUG BOT* 1.0",
   "version": "1.0.0",
-  "description": "Simple Bot Whatsapp With Baileys",
+  "description": "KAYA EST LE MEILLEUR",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Precious Ayomide",
+  "author": "KAYA SASAKI",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
