@@ -13,7 +13,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Prexzybooster"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaiPkRPLY6d0qEX50e2k"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+243823661981"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Kaya2005"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaiPkRPLY6d0qEX50e2k"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+243823661981"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
@@ -23,7 +23,7 @@ KAYA BUG BOT is a bug bot designed to enhance the functionality and preferences 
 If you clone my repo or use as base bot, dont forget to give credits. PREXZYVILLA
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/Prexzybooster/PREXZY-BUG-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/Kaya2005/KAYA-BUG-BOT-/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
 
 
