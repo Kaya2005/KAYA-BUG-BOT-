@@ -1,4 +1,4 @@
-<h1 align="center"> PREXZY BUG V2 </h1>
+<h1 align="center"> KAYA BUG V2 </h1>
 <p align="center">  
   
 ***
